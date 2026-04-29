@@ -1,6 +1,6 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+docker.io/swebench/sweb.eval.x86_64.astropy_1776_astropy-12907:latest
+docker.io/swebench/sweb.eval.x86_64.astropy_1776_astropy-14182:latest
+docker.io/swebench/sweb.eval.x86_64.astropy_1776_astropy-14365:latest
+docker.io/swebench/sweb.eval.x86_64.astropy_1776_astropy-14995:latest
+docker.io/swebench/sweb.eval.x86_64.astropy_1776_astropy-6938:latest
+docker.io/swebench/sweb.eval.x86_64.astropy_1776_astropy-7746:lates
